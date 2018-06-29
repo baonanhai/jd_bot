@@ -9,18 +9,18 @@
 > * 获取vip专属优惠券列表
 > * 领取vip专属优惠券
 
-### 项目环境
+## 项目环境
 
-> 系统:mac
-> python版本：3.6
+> * 系统:mac
+> * python版本：3.6
 
 ## 项目依赖
-> python3.6
-> pillow
-> requests
-> pycrypto
-> BeautifulSoup
-> lxml
+> * python3.6
+> * pillow
+> * requests
+> * pycrypto
+> * BeautifulSoup
+> * lxml
 
 ## 开源协议
-> GPL
+> * GPL
