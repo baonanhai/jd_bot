@@ -13,11 +13,10 @@
 
 ### 项目环境
 
-> * 系统:mac
+> * 操作系统版本:mac 10.13.5
 > * python版本：3.6
 
 ### 项目依赖
-> * python3.6
 > * pillow
 > * requests
 > * pycrypto
